@@ -6,3 +6,4 @@ package holyhybrid52.GodWeapons.util;
 public interface IHasModel {
     public void registerModels();
 }
+//test
