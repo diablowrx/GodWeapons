@@ -14,8 +14,16 @@
           <option name="url" value="https://github.com/CSCI-142-10-20175/project-1-dendron-dwz6915" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CSCI-142-10-20175/project-2-railroad-barons-teamname" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/CSCI-142-10-20175/project-2-railroad-barons-teamname.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\David\Desktop\" />
+    <option name="cloneParentDir" value="C:\Users\David\IdeaProjects" />
   </component>
 </application>
