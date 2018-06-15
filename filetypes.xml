@@ -4,6 +4,7 @@
       <mapping pattern="hold" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
       <mapping pattern="untitled" type="PLAIN_TEXT" />
+      <mapping ext="lang" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
